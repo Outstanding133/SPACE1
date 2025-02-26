@@ -1,0 +1,51 @@
+nav {
+    background-color: #5d5959;
+    color: white;
+    padding: 10px;
+    text-align: right;
+    border-radius: 15px;
+}
+
+button {
+
+    border-radius: 15px;
+    padding: 10px;
+   background-color: #ffffff;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #565454;
+    color: white;
+}
+img{
+    height: 500px;
+    width:500px;
+    
+    margin-left: 500px;
+    margin-top: 0px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+.first::first-letter{
+    font-size: 30px;
+    font-style: bold;
+}
+.login1{
+    text-align: center;
+    border: #565454 10px solid;
+    width: 300px;
+    margin-left: 600px;
+    background-color: #565454;
+    color: white;
+}
+#lg{
+    margin-bottom: 10px;
+   
+}
+label{
+    color: white;
+}
